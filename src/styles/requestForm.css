@@ -1,0 +1,37 @@
+.serviceForm{
+    display: flex;
+    flex-direction: column;
+    padding: auto;
+    margin: 1em 1em 1em 1em;
+}
+
+.field{
+    display: flex;
+    flex-direction: column;
+    padding: auto;
+    margin: 1em 10em 1em 1em;
+    font: larger;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 25px;
+	line-height: 1.5;
+}
+
+#submitRequest {
+        margin: 1rem 35em 1rem 1rem;
+        padding: 0.65rem;
+        background-color: rgb(34, 14, 124);
+        color: lightgoldenrodyellow;
+        font-size: 1.25rem;
+        text-emphasis-color: white;
+        border: solid; color: darkgrey; size: 0.2em;
+}
+
+#request__delete {
+    margin: 1rem 35em 1rem 1rem;
+    padding: 0.65rem;
+    background-color: rgb(34, 14, 124);
+    color: lightgoldenrodyellow;
+    font-size: 1.25rem;
+    text-emphasis-color: white;
+    border: solid; color: darkgrey; size: 0.2em;
+}
